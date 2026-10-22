@@ -1,1 +1,1 @@
-![AI 原生公司基建：角色与协作、能力与知识、积累与进化](assets/vision.png)
+![一套能持续积累和进化的 AI 原生公司基建](assets/vision.png)
